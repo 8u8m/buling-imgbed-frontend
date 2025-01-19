@@ -4,7 +4,7 @@
       <div class="container nav-container">
         <NuxtLink to="/" class="logo">
           <span class="logo-full">5678图床</span>
-          <span class="logo-short">布灵</span>
+          <span class="logo-short">5678</span>
         </NuxtLink>
 
         <div class="nav-links">
@@ -30,9 +30,9 @@
 
     <footer class="footer">
       <div class="container footer-content">
-        <p class="copyright">© {{ currentYear }} 布灵图床 · 简单好用的图床服务 </p>
-        <p class="copyright">❤️ Made with <a href="https://anuuu.com" target="_blank" rel="noopener"
-            class="footer-link">Anuuu.com</a> ·
+        <p class="copyright">© {{ currentYear }} 5678图床 · 简单好用的图床服务 </p>
+        <p class="copyright">❤️ Made with <a href="https://img.705678.xyz" target="_blank" rel="noopener"
+            class="footer-link">705678.xyz</a> ·
           <a href="https://github.com/wzs8/buling-imgbed" target="_blank" rel="noopener" class="footer-link">GitHub</a> ·
           <a href="https://anuuu.com/buling-imgbed.html" rel="noopener" class="footer-link" target="_blank">使用教程</a>
         </p>
