@@ -3,7 +3,7 @@
     <nav class="navbar">
       <div class="container nav-container">
         <NuxtLink to="/" class="logo">
-          <span class="logo-full">布灵图床</span>
+          <span class="logo-full">5678图床</span>
           <span class="logo-short">布灵</span>
         </NuxtLink>
 
